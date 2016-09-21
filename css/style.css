@@ -6,7 +6,7 @@
 	width: 1000px;
 	height: auto;
 	margin: auto;
-	position: center;
+	position: relative;
 	background: red;
 }
 
@@ -31,7 +31,7 @@ font-family: 'Pacifico', cursive;
 color: white;
 margin-left: 10px;
 font-size: 30px;
-text-align: left; 
+text-align: center; 
 }
 
 
