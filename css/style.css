@@ -67,7 +67,7 @@ padding-top: 4px;
 li{
 	float: left;
 	list-style-type: none;
-	padding: 30px;
+	padding: 20px;
 	background: black;
 	margin: 3px;
 	border-radius: 10px;
@@ -123,7 +123,7 @@ p{
 .ancho_menu_home{width: 800px;}
 .ancho_menu_paginas{width: 870px;}
 
-.menu:link{color: blu; text-decoration: none;}
+.menu:link{color: white ; text-decoration: none;}
 .menu:visited{color: white; text-decoration: none;}
 .menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
 .menu:active{color: white; text-decoration: none;}
