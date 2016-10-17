@@ -14,10 +14,7 @@ header{
 	margin: auto;
 	position: relative;
 }
-nav{
-	margin: auto;
-	position: relative;
-}
+
 /*ETIQUETAS*/
 body{
 	width:1000px;
@@ -25,6 +22,7 @@ body{
 background-image: url(../img/fondoUnad.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+position: center;
 }
 
 h1{
@@ -67,6 +65,7 @@ height: 50px;
 margin: 0 auto;
 background: golden;
 border-radius: 20px;
+
 
 }
 ul{
