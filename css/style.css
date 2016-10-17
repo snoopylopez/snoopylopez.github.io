@@ -32,7 +32,7 @@ font-family: 'Pacifico', cursive;
 color: white;
 margin-left: 10px;
 font-size: 30px;
-text-align: center; 
+text-align: right; 
 }
 
 
@@ -46,7 +46,7 @@ text-align: center;
 
 header{
 	width: 900px;
-	height: 120 px;
+	height: 120px;
 	background: blu;
 	border-radius: 20px;
 	
@@ -55,7 +55,7 @@ header{
 
 nav{
 width: 900px;
-height: 50px;
+height: 120px;
 background: golden;
 border-radius: 20px;
 
@@ -66,7 +66,7 @@ padding-top: 4px;
 }
 
 li{
-	float: left;
+	float: center;
 	list-style-type: none;
 	padding: 20px;
 	background: orange;
@@ -121,13 +121,13 @@ p{
 
 /*CLASES*/
 
-.ancho_menu_home{width: 800px;}
-.ancho_menu_paginas{width: 870px;}
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
 
-.menu:link{color: white ; text-decoration: none;}
-.menu:visited{color: white; text-decoration: none;}
-.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
-.menu:active{color: white; text-decoration: none;}
+.menu:link{padding: 7px; color: white ; text-decoration: none;}
+.menu:visited{padding: 7px; color: white; text-decoration: none;}
+.menu:hover{padding: 7px; color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{padding: 7px; color: white; text-decoration: none;}
 
 /*SEUDO CLASES*/
 
