@@ -88,7 +88,7 @@ li{
 }
 
 section{
-	width: 800px;
+	width: 1000px;
 	background: gray;
 	height: 100px;
 	float: center;
@@ -98,7 +98,7 @@ section{
 }
 aside{
 
-	width: 800px;
+	width: 1000px;
 	background: white;
 	height: 100px;
 	float: right;
