@@ -2,7 +2,11 @@
   font-family: 'Pacifico', cursive;
 */
 
-#contenidos
+#contenidos{
+	margin: auto;
+	position: relative;
+
+}
 #archivos{
 	width: 1000px;
 	height: 1000px;
@@ -57,6 +61,7 @@ header{
 	border-radius: 20px;
 
 }
+
 
 nav{
 width: 1000px;
