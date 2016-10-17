@@ -10,7 +10,10 @@
 	position: center;
 	background: red;
 }
-
+header{
+	margin: auto;
+	position: relative;
+}
 
 /*ETIQUETAS*/
 body{
