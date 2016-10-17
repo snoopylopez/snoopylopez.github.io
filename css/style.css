@@ -71,6 +71,7 @@ border-radius: 20px;
 ul{
 margin: auto;
 padding-top: 4px;
+position: relative
 }
 
 li{
@@ -93,6 +94,7 @@ section{
 	float: center;
 	margin-top: 20px;
 	border-radius: 10px;
+	position: center
 }
 aside{
 
@@ -103,6 +105,7 @@ aside{
 	margin-left: 20px;
 	margin-top: 20px;
 	border-radius: 10px;
+	position: center
 }
 
 footer{
