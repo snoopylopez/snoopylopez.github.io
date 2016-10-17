@@ -5,7 +5,7 @@
 #contenidos
 #archivos{
 	width: 300px;
-	height: auto;
+	height: 300px;
 	margin: auto;
 	position: relative;
 	background: red;
@@ -54,8 +54,9 @@ header{
 }
 
 nav{
-width: 900px;
+width: 940px;
 height: 50px;
+margin: 0 auto;
 background: golden;
 border-radius: 20px;
 
