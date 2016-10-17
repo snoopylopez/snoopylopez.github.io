@@ -14,7 +14,10 @@ header{
 	margin: auto;
 	position: relative;
 }
-
+nav{
+	margin: auto;
+	position: relative;
+}
 /*ETIQUETAS*/
 body{
 	width:1000px;
