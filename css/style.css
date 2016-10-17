@@ -22,8 +22,7 @@ background-size: cover;
 h1{
 font-family: 'Lobster', cursive;
 color: white;
-margin-left: auto;
-margin-right: auto;
+margin-left: 20px;
 font-size: 70px;
 text-align: center; 
 }
@@ -128,7 +127,7 @@ p{
 
 .menu:link{color: white ; text-decoration: none;}
 .menu:visited{color: white; text-decoration: none;}
-.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:hover{color: white; text-decoration: none;}
 .menu:active{color: white; text-decoration: none;}
 
 /*SEUDO CLASES*/
