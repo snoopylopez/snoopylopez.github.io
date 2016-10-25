@@ -4,7 +4,7 @@
 
 #contenidos{
 	margin: auto;
-	position: center;
+	position: relative;
 
 }
 #archivos{
@@ -32,9 +32,9 @@ position: center;
 h1{
 font-family: 'Lobster', cursive;
 color: white;
-margin-left: 20px;
-font-size: 20px;
-text-align: center; 
+margin-left: 0px;
+font-size: 40px;
+text-align:left; 
 }
 
 h2{
@@ -55,11 +55,11 @@ text-align: center;
 }
 
 header{
-	width: 900px;
-	height: 120 px;
+	width: 800px;
+	height: 100 px;
 	background: blu;
 	border-radius: 20px;
-
+    text-align:left;
 }
 
 
@@ -138,7 +138,7 @@ p{
 /*CLASES*/
 
 .ancho_menu_home{width: 800px;}
-.ancho_menu_paginas{width: 870px;}
+.ancho_menu_paginas{width: 800px;}
 
 .menu:link{color: white ; text-decoration: none;}
 .menu:visited{color: white; text-decoration: none;}
