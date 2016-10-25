@@ -21,7 +21,7 @@ header{
 
 /*ETIQUETAS*/
 body{
-	width:1000px;
+	width:800px;
 	margin:0px auto;
 background-image: url(../img/fondoUnad.jpg);
 background-repeat: no-repeat;
@@ -33,7 +33,7 @@ h1{
 font-family: 'Lobster', cursive;
 color: white;
 margin-left: 20px;
-font-size: 70px;
+font-size: 20px;
 text-align: center; 
 }
 
