@@ -76,7 +76,7 @@ border-radius: 20px;
 ul{
 margin: auto;
 padding-top: 4px;
-position: relative;
+position: center;
 }
 
 li{
@@ -86,9 +86,9 @@ li{
 	padding: 20px;
 	background: orange;
 	margin: 3px;
-	border-radius: 10px;
-	box-shadow: 0 0 10px white inset; 
-	position: relative;
+	border-radius: 1000px;
+	box-shadow:10px white inset; 
+	position: right;
 
 }
 
@@ -109,7 +109,7 @@ aside{
 	height: 100px;
 	float: right;
 	margin-left: 20px;
-	margin-top: 20px;
+	margin-top: 50px;
 	border-radius: 10px;
 	position: center;
 }
